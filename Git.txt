@@ -1,1 +1,2 @@
-Initial Message 
+Initial Message
+Second Message
